@@ -1,3 +1,5 @@
+![alt text](http://www.ies.edu.br/assets/img/logo.png)
+
 # SISTEMA INTELIGENTE PARA PREDIÇÃO DE SEGUROS DE AUTOMÓVEIS UTILIZANDO SUPPORT VECTOR MACHINES
 
 ## Trabalho de conclusão de curso
